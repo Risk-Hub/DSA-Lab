@@ -1,0 +1,24 @@
+Q1. WAP to find the largest number and counts the occurrence of the largest number in a dynamic array of n integers using a single loop.
+
+Q2. Given a dynamic array, WAP to print the next greater element (NGE) for every element. The next greater element for an element x is the first greater element on the right side of x in array. Elements for which no greater element exist, consider next greater element as -1. E.g. For the input array [2, 5, 3, 9, 7], the next greater elements for each elements are as follows.
+	Element	NGE
+	2	5
+	5	9
+	3	9
+	9	-1
+	7	-1
+
+Q3. WAP to store n student’s information (i.e. student’s roll no, name, gender, marks) of an educational institute and display all the data, using array of structure.
+
+Q4. WAP to store n employee’s data such as employee name, gender, designation, basic pay. Calculate the gross pay of each employees as follows:
+	Gross pay = basic pay + HRA + DA
+	HRA=25% of basic and DA=75% of basic.
+
+Q5. WAP to declare one distance structure (with members kilometer and meter) and create the variables for addition of two distances using Pointers to structure. 
+	10km500m--D1
+	21km600m--D2
+	D3.meter=D1.meter+D2.meter  (100)
+	D3.KM=D1.KM+D2.KM (32)
+	If(D3.meter>=1000)
+	D3.KM++;
+	D3.meter=D3.meter-1000;
