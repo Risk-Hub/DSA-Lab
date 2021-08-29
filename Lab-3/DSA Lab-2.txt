@@ -1,0 +1,6 @@
+1. WAP for representing the polynomial using array. Take the input from user and display it in appropriate format.
+2. WAP for addition of two polynomials using arrays.
+3. WAP for multiplication of two polynomials using arrays.
+4. WAP to create the triplet representation of a sparse matrix.
+5. WAP to find the addition of two sparse matrices using triplet format.
+6. WAP to find the transpose of a sparse matrix using triplet format only.
