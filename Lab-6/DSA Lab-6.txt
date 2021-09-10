@@ -1,0 +1,4 @@
+1. WAP to create a Circular Linked List and display the circular linked list.
+2. WAP for insertion of a new node in the circular liked list at, 1. beginning, 2. at last and 3. at a position.
+3. WAP for deletion of a node from circular linked list from 1. first, 2. from last and 3. from any position.
+4. WAP to create a Header linked list with proper information (no. Of elements in the linked list) stored into the Head node.
