@@ -1,0 +1,4 @@
+1. Write a menu driven program to perform the following operations of a stack using array by using suitable user defined functions for each case.
+a) Check if the stack is empty b) Display the contents of stack c) Push d) Pop
+2. WAP to convert the decimal to binary using stack.
+3. WAP to print the reverse of a string using stack.
