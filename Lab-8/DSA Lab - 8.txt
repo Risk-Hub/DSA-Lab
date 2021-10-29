@@ -1,0 +1,5 @@
+1. Write a menu driven program to implement queue operations such as Enqueue, Dequeue, Peek(Front element), Display of elements, IsEmpty, IsFull using static array.
+2. Write a menu driven program to implement queue operations such as Enqueue, Dequeue, Peek, Display of elements, IsEmpty using linked list.
+3. Write a menu driven program to implement circular queue operations such as Enqueue, Dequeue, Peek, Display of elements, IsEmpty, IsFull using static array.
+4. Write a menu driven program to implement circular queue operations such as Enqueue, Dequeue, Peek, Display of elements, IsEmpty using linked list.
+5. Write a menu driven program to implement priority queue operations such as Enqueue, and Dequeue using linked list.
