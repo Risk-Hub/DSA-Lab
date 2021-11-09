@@ -1,0 +1,4 @@
+1. WAP to implement Linear search in an Array.
+2. WAP to implement Binary Search in a sorted array.
+3. WAP to input an unsorted array, and arrange the elements of the array using Bubble sort.
+4. WAP to input an unsorted array, and arrange the elements of the array using Insertion sort.
